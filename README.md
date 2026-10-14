@@ -1,4 +1,4 @@
-# MetAR: Meta-Analysis of RNA-seq based relationships
+# MetAR: Meta-Analysis of RNA-seq based associations
 
 MetAR is a reproducible R-based pipeline for performing meta-analysis of RNA-seq datasets from the NCBI Gene Expression Omnibus (GEO). It enables analysis of relationships between a user-defined variable (e.g. age, hormone levels) and gene expression across multiple studies.
 
